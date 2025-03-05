@@ -11,7 +11,7 @@ Visualization Tools: Offers visual representations of optimal locations for bett
 Scalability: Adaptable for various urban and rural settings across India.
 
 Installation
-Clone the repository: git clone https://github.com/yourusername/ev-charging-optimizer.git
+Clone the repository: git clone https://github.com/Arpitmahajan123/EV_STATION.git
 Navigate to the project directory: cd ev-charging-optimizer
 
 Install dependencies: pip install -r requirements.txt
