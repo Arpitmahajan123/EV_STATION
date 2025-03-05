@@ -1,0 +1,62 @@
+/* Main styling */
+.stApp {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Header styling */
+h1 {
+    color: #2c3e50;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+/* Sidebar styling */
+.sidebar .sidebar-content {
+    background-color: #f8f9fa;
+}
+
+/* Button styling */
+.stButton > button {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+}
+
+.stButton > button:hover {
+    background-color: #27ae60;
+}
+
+/* Map container styling */
+.folium-map {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Chart styling */
+.plotly-chart {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 1rem;
+}
+
+/* Image gallery styling */
+img {
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+/* Metrics styling */
+.stMetric {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
